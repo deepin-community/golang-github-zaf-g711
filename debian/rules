@@ -1,0 +1,6 @@
+#!/usr/bin/make -f
+export DEB_BUILD_MAINT_OPTIONS = hardening=+all
+export DH_GOLANG_EXCLUDES := cmd
+
+%:
+	dh $@ --buildsystem=golang --with=golang

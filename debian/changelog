@@ -1,0 +1,24 @@
+golang-github-zaf-g711 (1.2-3) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Go Packaging Team <team+pkg-go@tracker.debian.org>  Mon, 25 Jul 2022 13:27:56 +0800
+
+golang-github-zaf-g711 (1.2-3) unstable; urgency=medium
+
+  [ Tan Feng ]
+  * UNRELEASED
+
+ -- caixiangrong <caixiangrong@uniontech.com>  Mon, 25 Jul 2022 13:27:09 +0800
+
+golang-github-zaf-g711 (1.2-2) unstable; urgency=medium
+
+  * snipe init
+
+ -- Tan Feng <tanfeng@uniontech.com>  Tue, 21 Jun 2022 20:08:24 +0800
+
+golang-github-zaf-g711 (1.2-1) unstable; urgency=medium
+
+  * init.
+
+ -- Clay Stan <claystan97@gmail.com>  Tue, 11 Jan 2022 16:04:27 +0800
